@@ -17,6 +17,6 @@ int main(){
 	}else if(delta == 0){
 		x1 = -b + (sqrt(delta))/(2*a);
 	}else{
-		printf("\nO valor de delta é negativo.");
+		printf("\nO valor de delta Ã© negativo.");
 	}
 }
